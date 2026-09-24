@@ -1,0 +1,5 @@
+body { background: #f5f7fb; }
+.navbar-brand { font-weight: 700; }
+.job-card { transition: transform .1s; }
+.job-card:hover { transform: translateY(-2px); }
+.score-badge { font-size: .9rem; }
